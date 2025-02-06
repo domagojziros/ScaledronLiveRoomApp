@@ -1,7 +1,5 @@
 # ScaledronLiveRoomApp
 
-# ScaledronLiveRoomApp
-
 ## Features
 - Real-time messaging using Scaledrone WebSockets
 
