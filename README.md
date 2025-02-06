@@ -12,3 +12,5 @@
    ```
    git clone https://github.com/domagojziros/ScaledronLiveRoomApp-.git
    ```
+2. Open index.html multiple times in a browser to try it out.
+   Each instance will serve as another identity.
